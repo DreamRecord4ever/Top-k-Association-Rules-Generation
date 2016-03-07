@@ -6,15 +6,16 @@ Generating top-k association rules based on the priority:
 | 1. Support
 | 2. Confidence
 | 3. Lexicography
-
+| 
 
 Simply make in the outside directory.
 
 | The original dataset can be downloaded at:
 | http://snap.stanford.edu/data/movies.txt.gz
-
+| 
 | The FP-growth implementation is adapted from **Mr. Christian Borgelt**'s implementation:
 | http://www.borgelt.net/fpgrowth.html
+| 
 
 commands:
 
